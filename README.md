@@ -12,8 +12,6 @@
 
 # Connect With Me
 
-<a href="https://www.github.com/SFMack">github.com/SFMack</a>
-<br>
 <a href="https://www.iamchristianmack.com">iamchristianmack.com</a>
 <br>
 <a href="https://www.linkedin.com/in/chrismackca">​linkedin.com/in/chrismackca</a>
