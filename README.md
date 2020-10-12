@@ -12,11 +12,11 @@
 
 # Connect With Me
 
-GitHub: github.com/SFMack​
+<a href="https://www.github.com/SFMack">github.com/SFMack</a>
 <br>
-Portfolio: iamchristianmack.com
+<a href="https://www.iamchristianmack.com">iamchristianmack.com</a>
 <br>
-LinkedIn: ​linkedin.com/in/chrismackca
+<a href="https://www.linkedin.com/in/chrismackca">​linkedin.com/in/chrismackca</a>
 
 
 # Skills
