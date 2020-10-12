@@ -21,19 +21,15 @@
 
 ### LANGUAGES
     ​JavaScript ES5/ES6, Python, HTML5, CSS
-<br>
 
 ### FRAMEWORKS & LIBRARIES
     ​ReactJS, NodeJS, Express, Less/Sass, Jest, React Testing Library, Material UI, Bootstrap, Mongoose
-<br>
 
 ### TOOLS
     ​Git, GitHub, Heroku, Netlify, VS Code, Atom, Terminal, Postman
-<br>
 
 ### DATABASES
     SQLite, PostgresQL, MongoDB
-<br>
 
 ### SOFTWARE DEVELOPMENT
     RESTful APIs, Object Oriented Programming, AGILE Development
