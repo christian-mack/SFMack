@@ -4,9 +4,9 @@
 
 # About Me
 
-- 🔭 I’m currently working on solidifying my understanding of fundamental computer science concepts - mainly data structures and algorithms
+- 🔭 I’m currently working on a passion project
 - 🌱 I’m currently learning Wordpress development
-- 💬 Ask me anything about Frontend
+- 💬 Ask me about current passion project
 - 📫 How to reach me: christian.ak.mack@gmail.com
 - ⚡ Fun fact: I have seven years professional experience working in fine dining restaurants as a Chef
 
