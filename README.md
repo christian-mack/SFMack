@@ -4,8 +4,8 @@
 
 # About Me
 
-- 🔭 I’m currently working on a passion project
-- 🌱 I’m currently learning Wordpress development
+- 🔭 I’m currently working on a ReDesigning my portfolio
+- 🌱 I’m currently learning UI UX design
 - 💬 Ask me about current passion project
 - 📫 How to reach me: christian.ak.mack@gmail.com
 - ⚡ Fun fact: I have seven years professional experience working in fine dining restaurants as a Chef
