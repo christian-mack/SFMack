@@ -1,7 +1,3 @@
-<img align="center" src="assets/banner.png"/>
-<br>
-<br>
-
 # About Me
 
 - 🔭 I’m currently working on a ReDesigning my portfolio
